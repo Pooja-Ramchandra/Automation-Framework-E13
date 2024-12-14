@@ -36,6 +36,7 @@ public class LoginPage {//rule 1
 		}
 
 		
+		
 		//BusinessLibrary-business logic in generic method
 		public void loginToApp(String USERNAME,String PASSWORD)
 		{
